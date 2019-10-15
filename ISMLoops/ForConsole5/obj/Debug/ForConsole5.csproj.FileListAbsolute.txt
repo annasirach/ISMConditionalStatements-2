@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\ISMLoops\ForConsole5\bin\Debug\ForConsole5.exe.config
+C:\Users\admin\source\repos\ISMLoops\ForConsole5\bin\Debug\ForConsole5.exe
+C:\Users\admin\source\repos\ISMLoops\ForConsole5\bin\Debug\ForConsole5.pdb
+C:\Users\admin\source\repos\ISMLoops\ForConsole5\obj\Debug\ForConsole5.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ISMLoops\ForConsole5\obj\Debug\ForConsole5.exe
+C:\Users\admin\source\repos\ISMLoops\ForConsole5\obj\Debug\ForConsole5.pdb

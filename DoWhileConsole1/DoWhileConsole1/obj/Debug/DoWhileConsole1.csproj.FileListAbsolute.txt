@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\DoWhileConsole1\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe.config
+C:\Users\admin\source\repos\DoWhileConsole1\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe
+C:\Users\admin\source\repos\DoWhileConsole1\DoWhileConsole1\bin\Debug\DoWhileConsole1.pdb
+C:\Users\admin\source\repos\DoWhileConsole1\DoWhileConsole1\obj\Debug\DoWhileConsole1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DoWhileConsole1\DoWhileConsole1\obj\Debug\DoWhileConsole1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DoWhileConsole1\DoWhileConsole1\obj\Debug\DoWhileConsole1.exe
+C:\Users\admin\source\repos\DoWhileConsole1\DoWhileConsole1\obj\Debug\DoWhileConsole1.pdb
